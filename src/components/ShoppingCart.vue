@@ -72,7 +72,7 @@ export default {
 
 <style>
 th, td {
-  background-color: #aa6f7c !important;
+  background-color: #ecbd80 !important;
 }
 
 th {
