@@ -32,9 +32,6 @@ Projekt on loodud õppimise eesmärgil ning kasutab JavaScripti, HTML/CSS ja Vue
    git clone https://github.com/KaisaRaja/Shoppingcart.git
 Ava index.html fail oma veebilehitsejas.
 
-Arendusjuhised
-Kui soovid arendusega edasi minna ja projekti lokaalselt käivitada, järgi neid samme:
-
 ### Paigalda vajalikud sõltuvused:
 ```
 npm install
