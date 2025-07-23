@@ -16,13 +16,13 @@ See projekt keskendub ostukorvi kasutajaliidesele ja põhifunktsioonidele:
 Projekt on loodud õppimise eesmärgil ning kasutab JavaScripti, HTML/CSS ja Vue.js tehnoloogiaid.
 
 ---
-## Kiire kasutusjuhend
+## Kasutamine
 
-Klooni repositoorium:
+1. Klooni repositoorium:
    ```bash
-   git clone https://github.com/KaisaRaja/Shoppingcart.git
+   git clone https://github.com/KaisaRaja/Shoppingcart-ui.git
 
-Ava index.html fail oma veebilehitsejas.
+### Ava index.html fail oma veebilehitsejas.
 
 ### Paigalda vajalikud sõltuvused:
 ```
