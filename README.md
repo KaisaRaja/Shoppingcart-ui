@@ -1,6 +1,6 @@
 # Shoppingcart Frontend
 
-Shoppingcart Frontend on lihtne veebipõhine ostukorvi kasutajaliidese rakendus, mis võimaldab kasutajatel lisada, hallata ja eemaldada tooteid ostukorvist mugavalt ja tõhusalt.
+Shoppingcart Frontend on lihtne veebipõhine ostukorvi kasutajaliidese rakenduse frontendi pool.
 
 ---
 
