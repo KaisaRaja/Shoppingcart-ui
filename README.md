@@ -45,9 +45,6 @@ npm run lint
 ```
 
 
-Kontakt
-Kui on küsimusi või soovid tagasisidet, võid minuga ühendust võtta.
-
 Autor: Kaisa Raja 
 Projekti eesmärk: Õppimine
 
