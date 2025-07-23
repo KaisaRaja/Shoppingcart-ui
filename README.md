@@ -18,18 +18,10 @@ Projekt on loodud õppimise eesmärgil ning kasutab JavaScripti, HTML/CSS ja Vue
 ---
 ## Kiire kasutusjuhend
 
-1. Klooni repositoorium:
+Klooni repositoorium:
    ```bash
    git clone https://github.com/KaisaRaja/Shoppingcart.git
 
-
----
-
-## Kasutamine
-
-1. Klooni repositoorium:
-   ```bash
-   git clone https://github.com/KaisaRaja/Shoppingcart.git
 Ava index.html fail oma veebilehitsejas.
 
 ### Paigalda vajalikud sõltuvused:
